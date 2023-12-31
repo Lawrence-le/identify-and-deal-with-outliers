@@ -24,19 +24,21 @@ The primary objective of my project is to explore the variation in total lightni
 
 * Understanding outliers impact on the mean and median
 
-Key Takeaways:
+---
 
-🌐 Visual Exploration:  
+## Key Takeaways:
+
+**🌐 Visual Exploration:**  
 Whisker plots provided an insightful visual representation of data spread, making it easy to identify central tendencies and potential outliers.
 
-📉 Robust Outlier Detection:  
+**📉 Robust Outlier Detection:**  
 The 1.5 IQR rule, coupled with Python-powered scatterplots, offered a robust method to pinpoint potential outliers, enhancing data quality and decision-making.
 Impact:
 
-🚀 Informed Decision-Making:  
+**🚀 Informed Decision-Making:**  
 By identifying outliers, we ensured that our analyses and insights were based on a more accurate representation of the underlying data distribution.
 
-📈 Data Quality Improvement:  
+**📈 Data Quality Improvement:**  
 This approach contributed to enhancing the overall quality and reliability of our dataset.
 
 Reference: [https://towardsdatascience.com/why-1-5-in-iqr-method-of-outlier-detection-5d07fdc82097](https://towardsdatascience.com/why-1-5-in-iqr-method-of-outlier-detection-5d07fdc82097)
