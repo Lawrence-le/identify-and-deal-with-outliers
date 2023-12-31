@@ -39,9 +39,6 @@ By identifying outliers, we ensured that our analyses and insights were based on
 📈 Data Quality Improvement:  
 This approach contributed to enhancing the overall quality and reliability of our dataset.
 
-[Reference:]([URL](https://towardsdatascience.com/why-1-5-in-iqr-method-of-outlier-detection-5d07fdc82097)https://towardsdatascience.com/why-1-5-in-iqr-method-of-outlier-detection-5d07fdc82097)
-
-[Link Text][1]
-[1]: https://towardsdatascience.com/why-1-5-in-iqr-method-of-outlier-detection-5d07fdc82097)https://towardsdatascience.com/why-1-5-in-iqr-method-of-outlier-detection-5d07fdc82097
+[https://towardsdatascience.com/why-1-5-in-iqr-method-of-outlier-detection-5d07fdc82097](https://towardsdatascience.com/why-1-5-in-iqr-method-of-outlier-detection-5d07fdc82097)
 
 
