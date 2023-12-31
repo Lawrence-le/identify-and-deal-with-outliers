@@ -9,7 +9,17 @@ The primary objective of my project is to explore the variation in total lightni
 ## Method Used
 
 * Boxplot visual tool to effectively analyze data distribtuion by percentiles and quartiles.
+
+![image](https://github.com/Lawrence-le/identify-and-deal-with-outliers/assets/151991077/84be2eff-fb9c-46f1-9c76-8c3b8d6ad21b)
+
 * Using IQR method for Outlier Detection
+
+![image](https://github.com/Lawrence-le/identify-and-deal-with-outliers/assets/151991077/1d0ad196-fc85-4080-9515-0c6922e3a400)
+
+* Plot scatterplot to visualise the outliers in red
+
+![image](https://github.com/Lawrence-le/identify-and-deal-with-outliers/assets/151991077/5508440f-48eb-40c4-bff9-fd7423b0e357)
+
 * Understanding outliers impact on the mean and median
 
 Reference: 
